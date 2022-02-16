@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-73-quantum-mechanics-i-fall-2018/e279ae5bbb29689e5b2d5c7c49309bd6_MIT5_73F18_quiz3.pdf
+file: /media/courses/5-73-quantum-mechanics-i-fall-2018/e279ae5bbb29689e5b2d5c7c49309bd6_MIT5_73F18_quiz3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams & Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: 5.73 F2018 Quiz 3
 uid: e279ae5b-bb29-689e-5b2d-5c7c49309bd6

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-73-quantum-mechanics-i-fall-2018/c18d5812f9f2dd4ed8cccaf85c8a0285_MIT5_73F18_PSet1.pdf
+file: /media/courses/5-73-quantum-mechanics-i-fall-2018/c18d5812f9f2dd4ed8cccaf85c8a0285_MIT5_73F18_PSet1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 5.73 F2018 Problem Set 1
 uid: c18d5812-f9f2-dd4e-d8cc-caf85c8a0285

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1487e968-912c-2837-a04b-33ec15ff40a0
 ---
@@ -182,7 +184,7 @@ Matrix Solution of Harmonic Oscillator
 {{< tdclose >}}
 {{< tdopen >}}
 End of Matrix Solution of H-O, and Feel the Power of  
-the **a** and **a**† Operators
+the **a** and **a**{{< sup "†" >}} Operators
 {{< tdclose >}}
 {{< tdopen >}}
  Problem Set 4 due
@@ -332,7 +334,7 @@ J-Matrices
 25
 {{< tdclose >}}
 {{< tdopen >}}
-HSO + HZeeman: Coupled vs. Uncoupled Basis Sets
+H{{< sup "SO" >}} + H{{< sup "Zeeman" >}}: Coupled vs. Uncoupled Basis Sets
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -344,7 +346,7 @@ HSO + HZeeman: Coupled vs. Uncoupled Basis Sets
 26
 {{< tdclose >}}
 {{< tdopen >}}
-HSO + HZeeman in ⎜JLSMJ\\(\\rangle\\) and ⎜LMLMS\\(\\rangle\\) by Ladders plus Orthogonality
+H{{< sup "SO" >}} + H{{< sup "Zeeman" >}} in ⎜JLSM{{< sub "J" >}}\\(\\rangle\\) and ⎜LM{{< sub "L" >}}M{{< sub "S" >}}\\(\\rangle\\) by Ladders plus Orthogonality
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -380,7 +382,7 @@ Hydrogen Radial Wavefunctions
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Begin Many e\- Atoms: Quantum Defect Theory
+Begin Many e{{< sup "\\-" >}} Atoms: Quantum Defect Theory
 {{< tdclose >}}
 {{< tdopen >}}
  Problem Set 8 due
@@ -434,7 +436,7 @@ Configurations and Resultant L-S-J “Terms” (States)
 33
 {{< tdclose >}}
 {{< tdopen >}}
-L-S Terms via L2, S2 and Projection
+L-S Terms via L{{< sup "2" >}}, S{{< sup "2" >}} and Projection
 {{< tdclose >}}
 {{< tdopen >}}
  

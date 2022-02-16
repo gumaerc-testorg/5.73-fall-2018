@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f44d9054-5342-af93-4e73-aaa4964ca565
 ---
@@ -256,7 +259,7 @@ topics
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[HSO + HZeeman: Coupled vs. Uncoupled Basis Sets (PDF - 1MB)]({{< baseurl >}}/resources/mit5_73f18_lec25)
+[H{{< sup "SO" >}} + H{{< sup "Zeeman" >}}: Coupled vs. Uncoupled Basis Sets (PDF - 1MB)]({{< baseurl >}}/resources/mit5_73f18_lec25)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +268,7 @@ topics
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[HSO + HZeeman in ⎜JLSMJ\\(\\rangle\\) and ⎜LMLMS\\(\\rangle\\) by Ladders plus Orthogonality (PDF)]({{< baseurl >}}/resources/mit5_73f18_lec26)
+[H{{< sup "SO" >}} + H{{< sup "Zeeman" >}} in ⎜JLSM{{< sub "J" >}}\\(\\rangle\\) and ⎜LM{{< sub "L" >}}M{{< sub "S" >}}\\(\\rangle\\) by Ladders plus Orthogonality (PDF)]({{< baseurl >}}/resources/mit5_73f18_lec26)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +279,7 @@ topics
 {{< tdopen >}}
 [Wigner-Eckart Theorem (PDF - 1.2MB)]({{< baseurl >}}/resources/mit5_73f18_lec27)  
 [Lecture 27 Supplement 1: Angular Momentum Eigenvalues (PDF)]({{< baseurl >}}/resources/mit5_73f18_lec27s1) (Courtesy of Dudley Herschbach. Used with permission.)  
-[Lecture 27 Supplement 2: Simplification of hyperfine Hhf by Wigner-Eckart Theorem (PDF)]({{< baseurl >}}/resources/mit5_73f18_lec27s2)  
+[Lecture 27 Supplement 2: Simplification of hyperfine H{{< sup "hf" >}} by Wigner-Eckart Theorem (PDF)]({{< baseurl >}}/resources/mit5_73f18_lec27s2)  
 [Lecture 27 Supplement 3: A User’s Guide to Angular Momentum Theory (PDF - 2.2MB)]({{< baseurl >}}/resources/mit5_73f18_lec27s3)
 {{< tdclose >}}
 
@@ -337,7 +340,7 @@ topics
 33
 {{< tdclose >}}
 {{< tdopen >}}
-[L-S Terms via L2, S2 and Projection (PDF - 1.0MB)]({{< baseurl >}}/resources/mit5_73f18_lec33)
+[L-S Terms via L{{< sup "2" >}}, S{{< sup "2" >}} and Projection (PDF - 1.0MB)]({{< baseurl >}}/resources/mit5_73f18_lec33)
 {{< tdclose >}}
 
 {{< trclose >}}

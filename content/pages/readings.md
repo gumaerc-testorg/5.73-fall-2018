@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0ef5a8a5-ad41-be4f-20f7-05adfe4dbad0
 ---
@@ -91,7 +94,7 @@ Matrix Mechanics
 13
 {{< tdclose >}}
 {{< tdopen >}}
-End of Matrix Solution of H-O, and Feel the Power of the **a** and **a**† Operators
+End of Matrix Solution of H-O, and Feel the Power of the **a** and **a**{{< sup "†" >}} Operators
 {{< tdclose >}}
 {{< tdopen >}}
 \[C-T,D,L-1\] pp. 488–508.
