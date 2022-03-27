@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams & Quizzes
 parent_type: CourseSection
+parent_uid: a72c23bf-10d3-fac1-556b-86be25ceb05a
 resourcetype: Document
 title: 5.73 F2018 Solutions of Quiz 1
 uid: c0bccefe-97c7-aee7-b26e-29cd10c1ac3d

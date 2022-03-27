@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f44d9054-5342-af93-4e73-aaa4964ca565
 resourcetype: Document
 title: '5.73 F2018 Lecture 1: Course Outline. Free Particle. Motion?'
 uid: e9eadfcb-7e1f-d977-d4f7-a650f6158524

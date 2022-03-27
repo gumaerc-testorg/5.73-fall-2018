@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f44d9054-5342-af93-4e73-aaa4964ca565
 resourcetype: Document
 title: '5.73 F2018 Lecture 2: Infinite Box'
 uid: 85120c99-7ebd-789e-9f9f-0e22a13e8271
