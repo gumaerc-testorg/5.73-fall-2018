@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the topics of each class session, and key dates for
+  the semester.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -382,7 +384,7 @@ Hydrogen Radial Wavefunctions
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Begin Many e{{< sup "\\-" >}} Atoms: Quantum Defect Theory
+Begin Many e{{< sup "\-" >}} Atoms: Quantum Defect Theory
 {{< tdclose >}}
 {{< tdopen >}}
  Problem Set 8 due

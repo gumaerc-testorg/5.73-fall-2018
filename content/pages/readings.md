@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains a list of assigned pages from the course textbook,
+  and occasional handouts, that students are expected to read in preparation for each
+  lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
