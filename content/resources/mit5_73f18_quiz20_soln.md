@@ -5,6 +5,7 @@ file: /courses/5-73-quantum-mechanics-i-fall-2018/47e44a06390d402366477a312cdc97
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams & Quizzes
 parent_type: CourseSection

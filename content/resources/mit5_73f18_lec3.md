@@ -5,6 +5,7 @@ file: /courses/5-73-quantum-mechanics-i-fall-2018/93d60ea36737349acdeb5afdef6fd5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
