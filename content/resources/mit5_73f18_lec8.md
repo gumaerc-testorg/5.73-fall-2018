@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-73-quantum-mechanics-i-fall-2018/d976b1001b1d6459febc09a14385d595_MIT5_73F18_Lec8.pdf
+file_size: 1461401
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
