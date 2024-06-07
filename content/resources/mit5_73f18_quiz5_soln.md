@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-73-quantum-mechanics-i-fall-2018/8d113897a4f0c64864e00e3447164881_MIT5_73F18_quiz5_soln.pdf
+file_size: 264278
 file_type: application/pdf
 learning_resource_types:
 - Exams

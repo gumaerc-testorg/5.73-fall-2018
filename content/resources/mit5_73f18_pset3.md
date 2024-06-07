@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-73-quantum-mechanics-i-fall-2018/57993d99f372d31088ec548dba04d76e_MIT5_73F18_PSet3.pdf
+file_size: 243740
 file_type: application/pdf
 learning_resource_types:
 - Assignments
