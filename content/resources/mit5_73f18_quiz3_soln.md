@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-73-quantum-mechanics-i-fall-2018/87679e77efbb1575161a40d6e89964fb_MIT5_73F18_quiz3_soln.pdf
+file: /courses/5-73-quantum-mechanics-i-fall-2018/87679e77efbb1575161a40d6e89964fb_MIT5_73F18_quiz3_soln.pdf
 file_size: 309499
 file_type: application/pdf
 learning_resource_types:
