@@ -190,7 +190,7 @@ Wigner-Eckart Theorem
 Begin Many-Electron Atoms: Quantum Defect Theory
 {{< tdclose >}}
 {{< tdopen >}}
-Ross, Stephen. "[MQDT Primer](https://aip.scitation.org/doi/abs/10.1063/1.40550)" pp. 73–110 in _Half Collision Resonance Phenomena in Molecules_ (AIP Conf. Proc. #225,  M. Garciá-Sucre, G. Raseev, and S.C. Ross) 1991. DOI: [https://doi.org/10.1063/1.40550](https://aip.scitation.org/doi/abs/10.1063/1.40550)
+Ross, Stephen. "{{% resource_link "49d5acc5-fa2b-4461-9003-0d95531aa053" "MQDT Primer" %}}" pp. 73–110 in _Half Collision Resonance Phenomena in Molecules_ (AIP Conf. Proc. #225,  M. Garciá-Sucre, G. Raseev, and S.C. Ross) 1991. DOI: {{% resource_link "49d5acc5-fa2b-4461-9003-0d95531aa053" "https://doi.org/10.1063/1.40550" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
